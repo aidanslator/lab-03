@@ -2,11 +2,11 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Stack Overflow
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
+| `Aidan Slator`    | `aslator` |
 | `<Add more>` | `<CCID>`  |
